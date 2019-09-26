@@ -1,8 +1,8 @@
 # issue-template
 Issue template 
 
-Issues for general discussion, use cases...
-Merge request / Pull request pages for code discussion.
+- Use issues for general discussion, use cases...
+- Use merge request / Pull request pages for code discussion.
 
 ---------------------------
 
