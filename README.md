@@ -82,4 +82,4 @@ TODO
   * [ ] Task 3.2
 * [ ] Task 4
 
-*Note: Mention relationated issues*
+*Note: Mention related issues for further details*
