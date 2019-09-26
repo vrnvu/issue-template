@@ -11,22 +11,23 @@ Objective
 
 Preconditions:
 
-* XXXXXXXXXXXXX
-* XXXXXXXXXXXXX
+* **Related Entity 1**: XXXXXXXXXXXXX
+* **Related Entity 2**: XXXXXXXXXXXXX
 * XXXXXXXXXXXXX 
 
 Then:
 
-* XXXXXXXXXXXXX
+* **Related Entity 1**: XXXXXXXXXXXXX
     * XXXXXXXXXXXXX
     * XXXXXXXXXXXXX
-* XXXXXXXXXXXXX *(!!!)*
-* XXXXXXXXXXXXX *(TODO, NOT CLEAR HOW)*
+* **Related Entity 2**: XXXXXXXXXXXXX 
+* **Related Entity 3**: XXXXXXXXXXXXX
 * XXXXXXXXXXXXX
 
 Postconditions:
 
-* XXXXXXXXXXXXX
+* **Related Entity 3**: XXXXXXXXXXXXX
+* **Related Entity 2**: XXXXXXXXXXXXX
 
 Related Entity 1 (Class/Object/Function)
 ------------------
